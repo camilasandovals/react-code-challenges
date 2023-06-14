@@ -2,6 +2,9 @@
   text-align: center;
 }
 
+button {
+  background-color: rgb(191, 191, 191);
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
